@@ -119,6 +119,9 @@ $ cd SoluevoQAChallenge
 # Dentro do projeto basta executar o comando abaixo
 # execute o comando do maven para execução dos testes.
 $ mvn clean install test
+
+# Após a execução do Projeto, basta executar o comando para gerar o relatório com Allure Report
+$ mvn allure:serve   
 ```
 
 ## OBS:
