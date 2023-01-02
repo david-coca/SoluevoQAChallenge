@@ -116,9 +116,6 @@ $ git clone https://github.com/SoluevoQAChallenge/tomgunners.git
 # acesse a pasta do projeto
 $ cd SoluevoQAChallenge
 
-# Acessar a minha branch
-$ git checkout tomgunners
-
 # Dentro do projeto basta executar o comando abaixo
 # execute o comando do maven para execução dos testes.
 $ mvn clean install test
